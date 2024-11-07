@@ -1,7 +1,8 @@
 {
-  "name": "react-admin",
+  "name": "admin-dashborad",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mcasti19.github.io/full-admin-dashborad",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",

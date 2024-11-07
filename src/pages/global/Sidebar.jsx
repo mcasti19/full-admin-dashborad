@@ -17,6 +17,7 @@ import TimelineOutlinedIcon from "@mui/icons-material/TimelineOutlined";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import MapOutlinedIcon from "@mui/icons-material/MapOutlined";
 
+
 const Item = ( { title, to, icon, selected, setSelected } ) => {
   const theme = useTheme();
   const colors = tokens( theme.palette.mode );
@@ -96,7 +97,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={ `../../assets/profile-image.png` }
+                  src={ `${ process.env.PUBLIC_URL }/assets/profile-image.png` }
                   style={ { cursor: "pointer", borderRadius: "50%" } }
                 />
               </Box>

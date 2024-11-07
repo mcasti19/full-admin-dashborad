@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/full-admin-dashborad/static/css/main.a6b5ff93.css",
+    "main.js": "/full-admin-dashborad/static/js/main.13d91bc6.js",
+    "index.html": "/full-admin-dashborad/index.html",
+    "main.a6b5ff93.css.map": "/full-admin-dashborad/static/css/main.a6b5ff93.css.map",
+    "main.13d91bc6.js.map": "/full-admin-dashborad/static/js/main.13d91bc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b5ff93.css",
+    "static/js/main.13d91bc6.js"
+  ]
+}
